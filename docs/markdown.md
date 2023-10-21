@@ -4,8 +4,8 @@
 
 1. Home
 2. News
-3. Performing Arts
-4. Photo Album
+3. Photo album
+4. Partners & Sponsors
 5. Support
 6. Contact
 
@@ -78,32 +78,6 @@ The Peabody Conservatory
 
 ## News (pg. 2)
 
-### BLOG
-
-WCR Center for the Arts is honored to announce that we have been named one of the top ten wedding venues in Reading, PA! Check out the article! [https://tinyurl.com/WCRTop10]()
-
-[Today is Giving Tuesday!](https://www.wcrcenter.org/post/today-is-giving-tuesday) Thank you to our community for your support over these past twenty months as we navigate uncharted waters. In the past year, we have…
-
-[Celebrating John Prine's Life & Music!](https://www.wcrcenter.org/post/celebrating-john-prine-s-life-music) The WCR Center for the Arts is excited to invite John Prine fans to remember and celebrate the iconic musician’s 75th birthday on Sunday,...
-
-[WCR Center Presents: Emerging Artist Series ft Noah Gibney](https://www.wcrcenter.org/post/wcr-center-presents-emerging-artist-series-ft-noah-gibney) We are thrilled to release the second concert in our Emerging Artist Series. This series will highlight local emerging artists and aims...
-
-[WCR Center Presents: Emerging Artist Series ft Renato Sanabria](https://www.wcrcenter.org/post/wcr-center-presents-emerging-artist-series-ft-renato-sanabria) The WCR Center for the Arts is thrilled to release the first concert in our Emerging Artist Series. This series will highlight local...
-
-[WCR Center Presents: 2021 STAYcation Raffle](https://www.wcrcenter.org/post/wcr-center-presents-2021-staycation-raffle) It’s hard to believe that it’s been a year since the WCR Center for the Arts has closed its doors to public performances. Like others…
-
-[The WCR Center for the Arts Presents](https://www.wcrcenter.org/post/the-wcr-center-for-the-arts-presents)… St. Patrick's Day Master Class with Ken Gehret Irish Tunes and Traditions for Fiddle and Guitar Local music treasure, Ken Gehret, will...
-
-[Plan a Romantic Evening at the WCR Center for the Arts](https://www.wcrcenter.org/post/plan-a-romantic-evening-at-the-wcr-center-for-the-arts) Are you looking for a romantic place to pop the big question? Or somewhere special to celebrate your anniversary? Planning a picturesque...
-
-[WCR Center - The Perfect Place to Meet](https://www.wcrcenter.org/post/wcr-center-the-perfect-place-to-meet) In considering the impact of Covid-19, we have set a special discounted rate for businesses looking to meet with 25 people or less.
-
-[5 Tips for a Great College Audition Tape](https://www.wcrcenter.org/post/5-tips-for-a-great-college-audition-tape) Take center stage in your college audition tapes by renting the WCR Center for the Arts!
-
-[Meet Our New President](https://www.wcrcenter.org/post/meet-our-new-president) We are honored to announce that Jayme Rhoads, a Berks County Community Advocate, has been selected to serve a two-year term as our Board Pre…
-
-[WCR Accessibility Project](https://www.wcrcenter.org/post/wcr-accessibility-project) For over 150 years, 140 North Fifth Street has been a vital member of the Reading community. The focal point of the mission of the WCR Cent…
-
 ### PRESS
 
 _Reading Eagle_ - Historic arts venue in Reading is now accessible to those with disabilities - May 12, 2023 [Read Full Article](https://www.readingeagle.com/2023/05/12/historic-arts-venue-in-reading-is-now-accessible-to-those-with-disabilities/)
@@ -115,20 +89,6 @@ _Berks Weekly_ - WCR Center for the Arts celebrates completion of building acces
 _Reading Eagle_ - Historic Reading building will soon have wheelchair accessibility - March 11, 2023 [Read Full Article](https://www.readingeagle.com/2023/03/11/historic-reading-building-will-soon-have-wheelchair-accessibility/)
 
 _Berks Weekly_- WCR Center for the Arts breaks ground on accessibility project - February 16, 2023 [Read Full Article](https://berksweekly.com/news/wcr-center-for-the-arts-breaks-ground-on-accessibility-project/)
-
-## Performing Arts (pg.3)
-
-#### Art Partners
-
-The WCR Center for the Arts is supported by many organizations throughout the community. Browse below and learn more about some of the WCR's Arts Partners.
-
-[Friends of Chamber Music Reading](https://www.chambermusicreading.org/) The mission of the Reading Musical Foundation is to advocate for and advance music appreciation and education in Berks County.
-
-[Reading Musical Foundation](https://readingmusicalfoundation.org/) The mission of the Reading Musical Foundation is to advocate for and advance music appreciation and education in Berks County.
-
-[Berks County Community Foundation](https://bccf.org/) The mission of Berks County Community Foundation is to promote philanthropy and improve the quality of life for the residents of Berks County, Pennsylvania.
-
-[Berks Arts](https://berksarts.org/) The mission of the Berks Arts is to inspire, engage and unite our community through arts education, collaboration and presentation.
 
 ### Past Events
 
@@ -229,7 +189,7 @@ Everybody's art makes it to My Mother's Refrigerator!
 If you love to do art, and want to show it, network, meet new people, and have your art purchased by someone from our community, then this is the show to be a part of!
 ​For more information email: [arts@barrioalegria.org](arts@barrioalegria.org)
 
-## Photo Album (pg. 4)
+## Photo Album (pg. 3)
 
 ### Archives
 
@@ -241,14 +201,19 @@ If you love to do art, and want to show it, network, meet new people, and have y
 - RMF Young Music Makers Award Banquet
 - Celebrations
 
-## Support (pg. 5)
+## Partners & Sponsors (pg.4)
 
-### Donate
+#### Art Partners
 
-As a nonprofit organization, the WCR Center for the Arts relies on contributions from donors to support the preservation efforts of this first-class artistic venue so that it can continue to serve the community and enhance the revitalization efforts in Reading, Pennsylvania. [**DONATE**](https://wcr-center-for-the-arts.square.site/)
+The WCR Center for the Arts is supported by many organizations throughout the community. Browse below and learn more about some of the WCR's Arts Partners.
 
-_Volunteer_: Interested in Volunteering? Fill out the quick form below!
-_2022/2023 Accessibility Campaign_: [2022-2023 Accessibility Campaign](https://wcr-center-for-the-arts.square.site/product/2022HardHatSociety/6)
+[Friends of Chamber Music Reading](https://www.chambermusicreading.org/) The mission of the Reading Musical Foundation is to advocate for and advance music appreciation and education in Berks County.
+
+[Reading Musical Foundation](https://readingmusicalfoundation.org/) The mission of the Reading Musical Foundation is to advocate for and advance music appreciation and education in Berks County.
+
+[Berks County Community Foundation](https://bccf.org/) The mission of Berks County Community Foundation is to promote philanthropy and improve the quality of life for the residents of Berks County, Pennsylvania.
+
+[Berks Arts](https://berksarts.org/) The mission of the Berks Arts is to inspire, engage and unite our community through arts education, collaboration and presentation.
 
 ### Board
 
@@ -270,24 +235,16 @@ WCR CENTER FOR THE ARTS BOARD OF DIRECTORS
 **EVENT PLANNING DIRECTOR**:Heather Boyer, Contact: [rentals@wcrcenter.org](rentals@wcrcenter.org) (484) 604-0890
 **SOCIAL MEDIA & MARKETING COORDINATOR**:Summer Rose Biros, Contact: [summer.biros@gmail.com](summer.biros@gmail.com)
 
+## Support (pg. 5)
+
+### Donate
+
+As a nonprofit organization, the WCR Center for the Arts relies on contributions from donors to support the preservation efforts of this first-class artistic venue so that it can continue to serve the community and enhance the revitalization efforts in Reading, Pennsylvania. [**DONATE**](https://wcr-center-for-the-arts.square.site/)
+
+_Volunteer_: Interested in Volunteering? Fill out the quick form below!
+_2022/2023 Accessibility Campaign_: [2022-2023 Accessibility Campaign](https://wcr-center-for-the-arts.square.site/product/2022HardHatSociety/6)
+
 ## Contact (pg. 6)
-
-### Employment
-
-#### Role: Events Attendant
-
-The role of the event attendant is to monitor events and activities at the WCR. They will report directly to the Events Director for scheduling and event details. Availability of hours depends on the WCR event schedule.
-
-#### Expectations
-
-Must be available weekends and have a flexible schedule.
-Open and close the building to accommodate rental clients.
-Be on site to monitor the event, answer client and guest questions. Replenish amenities (paper products, sanitizer, etc.).
-Oversee trash removal and cleanup during and after events and activities. Ability to multi-task and communicate with guests and patrons.
-Ensure proper use of the facility as specified on the rental checklist including,
-but not limited to: responsible alcohol use, safe and appropriate use of contents/furnishings and the building (doors, walls, communications equipment, piano, etc.), furnishings and furniture are not moved from original place, acceptable sound/noise level, appropriate patron conduct, no confetti, glitter, rice, etc. permitted, renters vacate the facility by designated time.
-
-Please email resumes to [rentals@wcrcenter.org](rentals@wcrcenter.org).
 
 Email: [rentals@wcrcenter.org](rentals@wcrcenter.org)
 Phone: (484) 604-0890
