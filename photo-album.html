@@ -3,8 +3,9 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link ref="stylesheet" href="css/normalize.css" />
+    <link rel="stylesheet" href="css/normalize.css" />
     <link rel="stylesheet" href="css/screen.css" />
+    <link rel="script" href="js/script.js" />
     <title>Photo Album</title>
     <style>
       .bullet-list {
@@ -19,22 +20,29 @@
       }
     </style>
   </head>
-
   <body>
     <header>
-      <h1>Photo Album</h1>
-      <nav>
-        <ul>
-          <li><a href="index.html">Home</a></li>
-          <li><a href="news.html">News</a></li>
-          <li><a href="photo-album.html">Photo Album</a></li>
-          <li><a href="partners-sponsors.html">Partners & Sponsors</a></li>
-          <li><a href="support.html">Support</a></li>
-          <li><a href="contact.html">Contact</a></li>
-        </ul>
-      </nav>
-    </header>
-
+        <img
+          id="logo"
+          src="images/index/index-logo.jpg"
+          alt="WCR Center for the Arts Logo"
+          height="200"
+          width="200"
+        />
+        <nav id="main-nav">
+          <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="news.html">News</a></li>
+            <li><a href="photo-album.html">Photo Album</a></li>
+            <li><a href="partners-sponsors.html">Partners & Sponsors</a></li>
+            <li><a href="support.html">Support</a></li>
+            <li><a href="contact.html">Contact</a></li>
+          </ul>
+        </nav>
+      </header>
+      <section class="subsection">
+        <h2>Photo Album</h2>
+      </section>
     <section>
       <ul class="bullet-list">
         <li class="bullet-item">Wedding Ceremonies</li>
@@ -48,13 +56,50 @@
     </section>
 
     <footer>
-      <address>
-        <strong>WCR Center for the Arts</strong><br />
-        140 N. Fifth St.<br />
-        Reading, PA 19601<br />
+      <div class="contact-info">
+        <img
+          id="logo"
+          src="images/index/index-logo.jpg"
+          alt="WCR Center for the Arts Logo"
+          height="200"
+          width="200"
+        />
+        <h3>140 N. Fifth St. Reading, PA 19601</h2>
         Phone: <a href="tel:+14846040890">(484) 604-0890</a><br />
         Email: <a href="mailto:rentals@wcrcenter.org">rentals@wcrcenter.org</a>
-      </address>
+      </div>
+  
+      <!-- Social Media Links -->
+      <div class="social-media">
+        <a
+          href="https://www.instagram.com/wcrcenter/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <img src="images/index/index-instagram.jpg" alt="Instagram" />
+        </a>
+        <a
+          href="https://www.facebook.com/TheWCRCenterForTheArts"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <img src="images/index/index-facebook.jpg" alt="Facebook" />
+        </a>
+        <a
+          href="https://www.linkedin.com/company/wcrcenter/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <img src="images/index/index-linkedin.jpg" alt="LinkedIn" />
+        </a>
+        <a
+          href="https://www.youtube.com/channel/UCWLYLU_CqWNwywfudDzwpvQ"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <img src="images/index/index-youtube.jpg" alt="YouTube" />
+        </a>
+      </div>
     </footer>
   </body>
 </html>
