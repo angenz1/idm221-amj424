@@ -5,29 +5,66 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="css/normalize.css" />
     <link rel="stylesheet" href="css/screen.css" />
-    <link rel="script" href="js/script.js" />
     <title>Partners & Sponsors</title>
   </head>
   <body>
     <header>
-      <img
-        id="logo"
-        src="images/index/index-logo.jpg"
-        alt="WCR Center for the Arts Logo"
-        height="200"
-        width="200"
-      />
-      <nav id="main-nav">
-        <ul>
-          <li><a href="index.html">Home</a></li>
-          <li><a href="news.html">News</a></li>
-          <li><a href="photo-album.html">Photo Album</a></li>
-          <li><a href="partners-sponsors.html">Partners & Sponsors</a></li>
-          <li><a href="support.html">Support</a></li>
-          <li><a href="contact.html">Contact</a></li>
+      <section class="top-nav">
+        <div>
+          <img
+            id="logo"
+            src="images/index/index-logo.jpg"
+            alt="WCR Center for the Arts Logo"
+            height="84"
+            width="84"
+          />
+        </div>
+        <input id="menu-toggle" type="checkbox" />
+        <label class="menu-button-container" for="menu-toggle">
+          <div class="menu-button"></div>
+        </label>
+        <ul class="menu">
+          <li>
+            <a href="index.html">Home</a>
+          </li>
+          <li>
+            <a href="news.html">News</a>
+          </li>
+          <li>
+            <a href="photo-album.html">Photo Album</a>
+          </li>
+          <li>
+            <a href="partners-sponsors.html">Partners & Sponsors</a>
+          </li>
+          <li>
+            <a href="support.html">Support</a>
+          </li>
+          <li>
+            <a href="contact.html">Contact</a>
+          </li>
         </ul>
-      </nav>
+      </section>
     </header>
+
+    <section class="subsection">
+      <h2>Partners & Sponsors</h2>
+    </section>
+
+    <div class="partners-sponsors">
+      <p>
+        The WCR Center for the Arts is supported by many organizations
+        throughout the community.
+      </p>
+      <img
+        src="images/partners-sponsors/partners-sponsors-cover.jpg"
+        alt="Partners Image"
+      />
+      <p>
+        Browse below and learn more about some of the WCR's Arts Partners. If
+        you're interested in becoming a partner or sponsor and want to know more
+        information, feel free to <a href="contact.html">contact us</a>.
+      </p>
+    </div>
 
     <section>
       <h2>Art Partners</h2>
@@ -36,97 +73,223 @@
         throughout the community. Browse below and learn more about some of the
         WCR's Arts Partners.
       </p>
-      <ul>
-        <li>
-          Friends of Chamber Music Reading: The mission of the Reading Musical
-          Foundation is to advocate for and advance music appreciation and
-          education in Berks County.
-        </li>
-        <li>
-          Reading Musical Foundation: The mission of the Reading Musical
-          Foundation is to advocate for and advance music appreciation and
-          education in Berks County.
-        </li>
-        <li>
-          Berks County Community Foundation: The mission of Berks County
-          Community Foundation is to promote philanthropy and improve the
-          quality of life for the residents of Berks County, Pennsylvania.
-        </li>
-        <li>
-          Berks Arts: The mission of Berks Arts is to inspire, engage and unite
-          our community through arts education, collaboration, and presentation.
-        </li>
-      </ul>
+      <div class="organization-box">
+        <h3>Friends of Chamber Music Reading</h3>
+        <p>
+          The mission of the Reading Musical Foundation is to advocate for and
+          advance music appreciation and education in Berks County.
+        </p>
+        <a href="https://www.chambermusicreading.org/" class="learn-more"
+          >Learn More</a
+        >
+      </div>
+
+      <div class="organization-box">
+        <h3>Reading Musical Foundation</h3>
+        <p>
+          The mission of the Reading Musical Foundation is to advocate for and
+          advance music appreciation and education in Berks County.
+        </p>
+        <a href="https://readingmusicalfoundation.org/" class="learn-more"
+          >Learn More</a
+        >
+      </div>
+
+      <div class="organization-box">
+        <h3>Berks County Community Foundation</h3>
+        <p>
+          The mission of Berks County Community Foundation is to promote
+          philanthropy and improve the quality of life for the residents of
+          Berks County, Pennsylvania.
+        </p>
+        <a href="https://bccf.org/" class="learn-more">Learn More</a>
+      </div>
+
+      <div class="organization-box">
+        <h3>Berks Arts</h3>
+        <p>
+          The mission of the Berks Arts is to inspire, engage and unite our
+          community through arts education, collaboration and presentation.
+        </p>
+        <a href="https://berksarts.org/" class="learn-more">Learn More</a>
+      </div>
     </section>
 
-    <section>
+    <section class="subsection">
       <h2>Board</h2>
-      <p>WCR CENTER FOR THE ARTS BOARD OF DIRECTORS</p>
-      <ul>
-        <li>President - Jayme Rhoads, Community Advocate Pure Air Life, LLC</li>
-        <li>
-          Vice President - Rhonda Hudak, CPRE Advancement Committee Co-Chair
-          Reading Area Community College
-        </li>
-        <li>
-          Founding Treasurer - William G. Koch, CPA Founding Member William G.
-          Koch & Associates, CPA’s
-        </li>
-        <li>
-          Secretary - Thomas B. Souders, MD Founding Member Retired Reading
+    </section>
+
+    <section>
+      <div class="box">
+        <h4>President</h4>
+        <img
+          src="images/partners-sponsors/partners-sponsors-board1.jpg"
+          alt="Jayme Rhoads"
+        />
+        <p>Jayme Rhoads, Community Advocate<br />Pure Air Life, LLC</p>
+      </div>
+
+      <hr class="divider" />
+
+      <div class="box">
+        <h4>Founding Treasurer</h4>
+        <img
+          src="images/partners-sponsors/partners-sponsors-board2.jpg"
+          alt="William G. Koch"
+        />
+        <p>
+          William G. Koch, CPA<br />Founding Member<br />William G. Koch &
+          Associates, CPA’s
+        </p>
+      </div>
+
+      <hr class="divider" />
+
+      <div class="box">
+        <h4>Secretary</h4>
+        <img
+          src="images/partners-sponsors/partners-sponsors-board3.jpg"
+          alt="Thomas B. Souders, MD"
+        />
+        <p>
+          Thomas B. Souders, MD<br />Founding Member<br />Retired Reading
           Hospital- Tower Health
-        </li>
-        <li>
-          Past President - Neil A. Hoffman, MD Reading Hospital-Tower Health
-        </li>
-        <li>Craig Dodge, Facilities Committee Chair VA Productions Inc.</li>
-        <li>Carol Fisher, LSW Berks County Children and Youth Services</li>
-        <li>
-          Crystal Kowalski, Program & Events Committee, Chair Crystal Kowalski,
-          Violin Studio
-        </li>
-        <li>Angie Lattanzio, Customers Bank</li>
-        <li>Penelope Proserpi, Founding Member, Community Advocate</li>
-        <li>Jane Runyeon, All Together Art</li>
-        <li>Nicholas Wernicki, PhD Advancement, Committee Co-Chair</li>
-      </ul>
-    </section>
+        </p>
+      </div>
 
-    <section>
-      <h2>Event Planning Director</h2>
-      <p>Heather Boyer</p>
-      <p>
-        Contact:
-        <a href="mailto:rentals@wcrcenter.org">rentals@wcrcenter.org</a> | (484)
-        604-0890
-      </p>
-    </section>
+      <hr class="divider" />
 
-    <section>
-      <h2>Social Media & Marketing Coordinator</h2>
-      <p>Summer Rose Biros</p>
-      <p>
-        Contact:
-        <a href="mailto:summer.biros@gmail.com">summer.biros@gmail.com</a>
-      </p>
-    </section>
+      <div class="box">
+        <h4>Past President</h4>
+        <img
+          src="images/partners-sponsors/partners-sponsors-board4.jpg"
+          alt="Neil A. Hoffman, MD"
+        />
+        <p>Neil A. Hoffman, MD<br />Reading Hospital-Tower Health</p>
+      </div>
 
-    <!-- Rest of content -->
+      <hr class="divider" />
+
+      <div class="box">
+        <h4>Craig Dodge</h4>
+        <img
+          src="images/partners-sponsors/partners-sponsors-board5.jpg"
+          alt="Craig Dodge"
+        />
+        <p>Craig Dodge, Facilities Committee Chair<br />VA Productions Inc.</p>
+      </div>
+
+      <hr class="divider" />
+
+      <div class="box">
+        <h4>Carol Fisher, LSW</h4>
+        <img
+          src="images/partners-sponsors/partners-sponsors-board6.jpg"
+          alt="Carol Fisher, LSW"
+        />
+        <p>Carol Fisher, LSW<br />Berks County Children and Youth Services</p>
+      </div>
+
+      <hr class="divider" />
+
+      <div class="box">
+        <h4>Crystal Kowalski</h4>
+        <img
+          src="images/partners-sponsors/partners-sponsors-board7.jpg"
+          alt="Crystal Kowalski"
+        />
+        <p>
+          Crystal Kowalski, Program & Events Committee, Chair<br />Crystal
+          Kowalski, Violin Studio
+        </p>
+      </div>
+
+      <hr class="divider" />
+
+      <div class="box">
+        <h4>Angie Lattanzio</h4>
+        <img
+          src="images/partners-sponsors/partners-sponsors-board8.jpg"
+          alt="Angie Lattanzio"
+        />
+        <p>Angie Lattanzio<br />Customers Bank</p>
+      </div>
+
+      <hr class="divider" />
+
+      <div class="box">
+        <h4>Penelope Proserpi</h4>
+        <img
+          src="images/partners-sponsors/partners-sponsors-board9.jpg"
+          alt="Penelope Proserpi"
+        />
+        <p>Penelope Proserpi, Founding Member, Community Advocate</p>
+      </div>
+
+      <hr class="divider" />
+
+      <div class="box">
+        <h4>Jane Runyeon</h4>
+        <img
+          src="images/partners-sponsors/partners-sponsors-board10.jpg"
+          alt="Jane Runyeon"
+        />
+        <p>Jane Runyeon<br />All Together Art</p>
+      </div>
+
+      <hr class="divider" />
+
+      <div class="box">
+        <h4>Nicholas Wernicki, PhD</h4>
+        <img
+          src="images/partners-sponsors/partners-sponsors-board11.jpg"
+          alt="Nicholas Wernicki, PhD"
+        />
+        <p>Nicholas Wernicki, PhD<br />Advancement, Committee Co-Chair</p>
+      </div>
+
+      <hr class="divider" />
+
+      <div class="box">
+        <h4>EVENT PLANNING DIRECTOR</h4>
+        <img
+          src="images/partners-sponsors/partners-sponsors-board12.jpg"
+          alt="Heather Boyer"
+        />
+        <p>
+          Heather Boyer<br />Contact:
+          <a href="mailto:rentals@wcrcenter.org">rentals@wcrcenter.org</a
+          ><br />(484) 604-0890
+        </p>
+      </div>
+
+      <hr class="divider" />
+
+      <div class="box">
+        <h4>SOCIAL MEDIA & MARKETING COORDINATOR</h4>
+        <img
+          src="images/partners-sponsors/partners-sponsors-board13.jpg"
+          alt="Summer Rose Biros"
+        />
+        <p>
+          Summer Rose Biros<br />Contact:
+          <a href="mailto:summer.biros@gmail.com">summer.biros@gmail.com</a>
+        </p>
+      </div>
+    </section>
 
     <footer>
       <div class="contact-info">
         <img
-          id="logo"
+          id="logofooter"
           src="images/index/index-logo.jpg"
           alt="WCR Center for the Arts Logo"
-          height="200"
-          width="200"
         />
-        <h3>140 N. Fifth St. Reading, PA 19601</h2>
+        <h3>140 N. Fifth St. Reading, PA 19601</h3>
         Phone: <a href="tel:+14846040890">(484) 604-0890</a><br />
         Email: <a href="mailto:rentals@wcrcenter.org">rentals@wcrcenter.org</a>
       </div>
-  
+
       <!-- Social Media Links -->
       <div class="social-media">
         <a
@@ -134,28 +297,44 @@
           target="_blank"
           rel="noopener noreferrer"
         >
-          <img src="images/index/index-instagram.jpg" alt="Instagram" />
+          <img
+            src="images/index/index-instagram.jpg"
+            alt="Instagram"
+            class="instagram-img"
+          />
         </a>
         <a
           href="https://www.facebook.com/TheWCRCenterForTheArts"
           target="_blank"
           rel="noopener noreferrer"
         >
-          <img src="images/index/index-facebook.jpg" alt="Facebook" />
+          <img
+            src="images/index/index-facebook.jpg"
+            alt="Facebook"
+            class="facebook-img"
+          />
         </a>
         <a
           href="https://www.linkedin.com/company/wcrcenter/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          <img src="images/index/index-linkedin.jpg" alt="LinkedIn" />
+          <img
+            src="images/index/index-linkedin.jpg"
+            alt="LinkedIn"
+            class="linkedin-img"
+          />
         </a>
         <a
           href="https://www.youtube.com/channel/UCWLYLU_CqWNwywfudDzwpvQ"
           target="_blank"
           rel="noopener noreferrer"
         >
-          <img src="images/index/index-youtube.jpg" alt="YouTube" />
+          <img
+            src="images/index/index-youtube.jpg"
+            alt="YouTube"
+            class="youtube-img"
+          />
         </a>
       </div>
     </footer>
